@@ -1,6 +1,6 @@
 package com.company;
-
-import java.time.LocalDate;
+//This import is necesarry because we are using the LocalDateTime class. The LocaldateTime class is stored 
+//inside the java.time.LocalDateTime.
 import java.time.LocalDateTime;
 import java.util.Scanner;
 
